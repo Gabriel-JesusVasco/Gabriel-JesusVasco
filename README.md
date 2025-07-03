@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Jesus
 
-**`Programador em desenvolvimento`**
+**`Programador em desenvolvimento | Futuro dev back-end`**
 
 Com 16 anos e cursando Técnico em Desenvolvimento de Sistemas na ETEC, dedico-me intensamente ao estudo de programação, iniciando Java e MySQL este ano, além de já trabalhar com HTML, CSS e JavaScript, sempre aplicando Clean Code, versionamento com Git e foco em lógica de programação backend.Atualmente em evolução no inglês (B1+), com foco técnico e comunicação para ambientes profissionais de tecnologia.
 
@@ -84,7 +84,7 @@ Com 16 anos e cursando Técnico em Desenvolvimento de Sistemas na ETEC, dedico-m
     title="Mysql" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
