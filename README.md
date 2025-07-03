@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Gabriel Jesus
 
-**`Programador em desenvolvimento | Futuro dev back-end`**
+**`Programador em desenvolvimento`**
 
-Com 16 anos e cursando Técnico em Desenvolvimento de Sistemas na ETEC, dedico-me intensamente ao estudo de programação, iniciando Java e MySQL este ano, além de já trabalhar com HTML, CSS e JavaScript, sempre aplicando Clean Code, versionamento com Git e foco em lógica de programação backend.Atualmente em evolução no inglês (B1+), com foco técnico e comunicação para ambientes profissionais de tecnologia.
+Com 16 anos e cursando Técnico em Desenvolvimento de Sistemas na ETEC, dedico-me intensamente ao estudo de programação, iniciando Java e MySQL este ano, além de já trabalhar com HTML, CSS e JavaScript, sempre aplicando Clean Code, versionamento com Git e foco em lógica de programação backend. Atualmente em evolução no inglês (B1+), com foco técnico e comunicação para ambientes profissionais de tecnologia.
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
     <a href="https://github.com/Gabriel-JesusVasco?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -95,8 +95,9 @@ Com 16 anos e cursando Técnico em Desenvolvimento de Sistemas na ETEC, dedico-m
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+<br clear="both" />
+
+---
 
 ### 📊 Estatísticas
 
@@ -108,12 +109,10 @@ Com 16 anos e cursando Técnico em Desenvolvimento de Sistemas na ETEC, dedico-m
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gabriel-JesusVasco&show_icons=true&theme=tokyonight" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-JesusVasco&layout=compact&theme=tokyonight" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-JesusVasco&layout=compact&theme=tokyonight" 
   />
-
 </p>
